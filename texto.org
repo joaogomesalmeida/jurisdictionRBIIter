@@ -1,0 +1,84 @@
+#+title: Conferência - tema jurisdiction
+#+date: 27 de janeiro de 2023
+#+author: João Gomes de Almeida
+#+options: toc:nil
+#+cite_export: csl
+
+* Jurisdiction on divorce
+
+** No changes to the jurisdiction rules (arts. 3-5)
+
+No changes were made to the jurisdiction rules on matrimonial matters.
+
+I'll give one exemple: the wording of article 4 is clearly too broad as it gives jurisdiction to the court seized in matrimonial matters to examine a counterclaim /insofar as that counterclaim falls within the scope of the Regulation/. The scope of the Regulation encompasses parental responsability. Does this mean that the court seized in matrimonial matter will have jurisdiction to rule on parental responsability if its brought as a counterclaim? That interpretation cannot stand in light of the rules on parental responsability, namely article 10 and 15. Even so, no change was made.
+
+Regarding the main rules of jurisdiction in matrimonial matters, the recent developments were made by the European Court of Justice as he address the concept of habitual residence of the spouses in two rulings:
+- Case C-289/20, /IB contra FA/, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-289%252F20&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lgrec=pt&lg=&page=1&cid=7960][EU:C:2021:955]] (25 November 2021); and
+- Case C-501/20, /MPA/, C-501/20, [[https://curia.europa.eu/juris/liste.jsf?nat=or&mat=or&pcs=Oor&jur=C%2CT%2CF&num=C-501%252F20&for=&jge=&dates=&language=pt&pro=&cit=none%252CC%252CCJ%252CR%252C2008E%252C%252C%252C%252C%252C%252C%252C%252C%252C%252Ctrue%252Cfalse%252Cfalse&oqp=&td=%3BALL&avg=&lgrec=pt&lg=&page=1&cid=7960][EU:C:2022:619]] (1 August 2022).
+
+Very succintly, in the first case the Court ruled that a spouse can only have one habitual residence at a given time and for the first time elaborated on how to determine the habitual residence of a spouse. The case is also interesting because of paragraphs 59 to 61 of the decision, in which the ECJ gives its opinion regarding the determination of the habitual residence of the spouse in question, nevertheless refering that it is for the refering court to ascertain and rule on that matter.
+
+In the second case, both spouses (a spanish and a portugese national) work for the European Union and live in a non-EU Country because of that work. The spanish spouse brought divorce proceedings before the spanish courts stating that her habitual residence was the one she had before she started working as a member of contract staff of the European Union. The refering court asked the ECJ how the concept of habitual residence to be interpreted in the case of the nationals of a Member State who are staying in a non-Member State by reason of the duties conferred on them as members of the contract staff of the European Union. The ECJ reinforced that habitual residence is characterised by two factors: (i) the /intention/ of the person concerned to establish the habitual centre of his or her interests in a particular place and (ii) a /presence which is sufficiently stable/ in the Member State concerned (paragraph 44). And ruled that, in light of facts, there was no presence as the spouses were physically absent permamently from the territory of Spain. The ECJ ruled that one cannot establish an habitual residence without a sufficently stable presence, even in cases where the person concerned leaves the country because of its profissional activity.
+
+** The biggest /small/ change: the merger of arts. 6.º and 7.º of Brussels IIa into art. 6.º Brussels IIb
+
+The relationship between arts. 6.º a 7.º of Brussels IIa was disputed.
+
+The Sundelind Lopes ruling did not settle the matter (it didn't have to), but somewhat hinted that art. 7.º must be read in conjunction with art. 6, both of Brussels IIa (paragraph 22 of the ruling).
+
+This was made obvious in Brussels IIb with the merger of the two articles.
+
+However, this was already the main interpretation before and, in the /MPA/ ruling, that I've already alluded to, the ECJ confirmed it. Another of the questions asked by the referring Court to the ECJ was if it could assert jurisdiction based on national law and article 7.º of the Brussels IIb Regulation when no court of another Member State had jurisdiction pursuant to the rules of the Regulation and the defendant is a national of another Member State.
+
+The ECJ clearly ruled that the court did not have jurisdiction in that case:
+
+#+begin_quote
+"(...) where a court of a Member State does not have jurisdiction to rule on an application for the dissolution of matrimonial ties under Articles 3 to 5 of Regulation No 2201/2003, Article 6 of that regulation prevents that court from declaring that it has jurisdiction under the rules on residual jurisdiction laid down by national law, in accordance with Article 7(1) of that regulation, where the respondent is a national of a Member State other than that of that court." (paragraph 85)
+#+end_quote
+
+* Jurisdiction in parental responsability
+** Main change: choice of court (article 10)
+
+The regime of choice of court is now the same, even when the parental responsability is anciliary to divorce proceedings. The child must have a substancial connection with the Member State of the choosen court and the exercise of jurisdiction must be in the interest of the child.
+
+There is already a significant amount of debate regarding the new article 10.º.
+
+Some questions seems easier to answer: each and every one of the conditions put forth by article 1, n.º 1, must be met; but condition (a), regarding the substancial connection with the child, is met if any one of the subconditions stated or even if the child has a substancial connection that is different than the ones stated in (i), (ii) and (iii). One can say, looking at letter of article 10.º/1/(a) that the list is open ended and is alternative in nature.
+
+Other questions are harder:
+
+Regarding consent, article 10/1/(b)/(ii) provides that, for agreements made in the course of the proceedings, the court must verify that all the parties are informed of their right not to accept the jurisdiction. Some authors advocate that this control by the judge of the parties awareness should be extended to agreements made prior to the proceedings[cite:@lupoi2021 p. 547].
+
+article 10.º/4 states that the jurisdiction conferred by a choice of court agreement made in the course of proceedings is exclusive. The Regulation is silent regarding the effects of a choice of court agreement made at the latest at the time the court is seised.
+
+Some authors argue that those choice of court agreements are not exclusive[cite:@gonzalezbeilfuss2021a p. 107;@herranzballesteros2021 p. 241;@shuilleabhain2021 p. 127]; Other authors argue that these choice of court agreements can only be exclusive /after/ the choosen court verifies that the conditions of article 10.º/1/(a) are met[cite:@corneloup2020 p. 230;@goncalves2022a p. 59]; finally, the Pratice Guide seems to adopt the view that the parties can confer jurisdiction by way of an exclusive or non-exclusive choice of court agreement made in advance or, at the latest, at the time the court is seised[cite:@musseva2022 p. 80;@jose2020 p. 1272].
+
+Besides the main difference between an exclusive and a non-exclusive choice of court agreement - an exclusive choice of court agreement confers jurisdictions to a court or the court of a Member State and deprives the courts of the remaining Member States of jurisdiction - their regime on brussels IIb is also different concerning:
+
+- the transfer of jurisdiction to a court of another Member State; the court that has jurisdiction based on an exclusive choice of court agreement cannot transfer its jurisdiction (art. 12.º/5); and
+- the /lis pendens/ rules. Art. 20.º/ 4 and 5 are new and transpose to the Brussels IIb the anti-"Gasser" rules of Brussels Ia (art. 31.º/2). If a court is seised based on an exclusive choice of court agreement, the principle of the court first seised ceases to apply and the other courts have to stay proceedings until the choosen court declares if he has or has not jurisdiction.
+
+Article 10.º/3 is new and goes beyond the ECJ case law. In case C-436/13, /E. v. B./, the ECJ ruled that jurisdiction based on prorrogation (art. 12.º of Brussels IIa) ceases following a final judgment in the proceedings. the rationale for this solution seems to be the need to respect the requirement of proximity for any new proceedings. Article 10.º/3 makes that the default rule, but the parties can agree otherwise and stipulate that agreement continues to be effective even after the making of a final judgment.
+
+** Transfer of jurisdiction (arts. 12 and 13)
+
+The transfer of jurisdiction to a court of another Member State was provided for in Article 15.º of the Brussels IIa Regulation and most saw it as a provision inspired by the /forum non conveniens/ doctrine of common-law countries.
+
+Brussels IIb fleshes out those rules in articles 12 and 13. Article 12 deals with the cases where a court in one Member State wishes to transfer its jurisdiction to a court of another Member State that he considers better placed to assess the best interests of the child in the case at hand. Article 13.º deals with the cases where a court of a Member State wishes to obtain jurisdiction as he considers himself better placed to assess the best interest of child and, as such, he may request a transfer of jurisdiction from the court of the Member State of the habitual residence of the child.
+
+The novelty in Article 12 (reflected also in Article 13) is the strengthening of the powers of the court. To initiate the transfer he no longer needs the request of one the parties or that one of them accepts a transfer iniatiated by the court. This seems a welcome change, as it emphasizes the role of the court in assessing the best interests of the child.
+
+Acording to Article 13 the court that wishes to obtain jurisdiction must request a transfer from a court of the Member State of the habitual residence of the child. This appears to be a restriction /vis a vis/ article 15/1 and 2 (c) of the Brussels IIa Regulation and raises questions. In the Brussels IIa the courts of a Member State having jurisdiction as to the matter could, by way of exceptio, transfer it to a court of another Member State, namely upon application of said court. Brussels IIa, as such, did not distinguish between legal basis of jurisdiction. The new article 13 appears to do so, as the court who whishes to obatinn jurisdiction must request a transfer from a court of the Member State of the habitual residence of the child (Article 7). Can the court of Member State A (that has no jurisdiction according to the provisions of the Regulation) ask the Court of Member State B (of the habitual residence of the child) for a transfer of jurisdiction, even when a court of Member State C has already been seized based on a non-exclusive choice of court agreement? Even if one anwsers positively, that does not seem to affect the jurisdictions of the Court of Member State C, as the Court of Member State B can only transfer its own jurisdiction. One can question, why is it not possibile to ask for a transfer of jurisdiction from the court of another the Member State when he has jurisdiction based either on Article 11 (presence of the child), Article 12 (non-exclusive choice of court) or Article 14 (national law)[cite:@rodriguezvazquez2020 p. 721]? This solution appears to be a directly inspired by the wording of article 9 of Hague 1996 Convention, without taking into account that, according to the Explanatory Report, the more restrictive wording appears to be an oversight[cite:@lagarde1996 p. 563, ponto 59].
+
+** "Disconnection" clause (art. 97)
+
+Article 97 is, in my opinion, good news as this provision allows for the operation of the transfer, choice of court and /lis pendens/ rules of the 1996 Child Protection Convention in cases connected with a EU Member State and a non-EU Convention State.
+
+Article 61 of the Brussels IIa Regulation pointed in the opposite direction and it seems beyond doubt that Article 97 is a better solution in regard to the relations with Third States that are Parties to the 1996 Child Protection Convention.
+
+* What's missing (hopefully next steps)?
+** Choice of court in matrimonial matters
+** No referral to national rules of jurisdiction
+* Bibliography
+
+#+print_bibliography:
